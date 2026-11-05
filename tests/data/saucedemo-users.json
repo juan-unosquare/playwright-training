@@ -1,0 +1,8 @@
+[
+    {
+        "name": "usuario prueba ejercicio data-driven",
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "expectInventory": true
+    }
+]
